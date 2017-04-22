@@ -4,7 +4,17 @@ Klaas Ruppel asked me to take over the UPA project because Kotus does not have r
 
 Can we create a simple webpage for this? All source files will be versioned in our GitHub, but where can we store files for download (PDF, executables, etc.)?
 
-===
+# Tasks
+
+1. Create GitHub-based webpage
+
+2. Archive and document original files
+
+3. Create and document (in Finnish and English) new source files
+
+4. Announce ressources
+
+# Email from Klaas
 
 Hallo,
 wie ich sehe, hältst du morgen einen Vortrag hier in Helsinki. Voraussichtlich kann ich leider nicht kommen. Aber bei dieser Gelegenheit komme ich - endlich -auf das UPA-Keyboard-Layout zurück.
