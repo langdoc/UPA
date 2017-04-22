@@ -1,8 +1,9 @@
+
 # UPA
 
 Klaas Ruppel asked me to take over the UPA project because Kotus does not have ressources and interest any longer. 
 
-Can we create a simple webpage for this? All source files will be versioned in our GitHub, but where can we store files for download (PDF, executables, etc.)?
+It is easy to build for this a website in GitHub, basically one has to select from the repository settings what is the source for pages, and these can be the master branch, `docs` folder in the master branch, or specific branch called `gh-pages`. All PDF's and executables can also be versioned here, especially in this case where they will not change as they will not be compiled again. There could be some logical structure for different file types, and they can be linked into on the web page.
 
 # Tasks
 
