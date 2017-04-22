@@ -1,5 +1,11 @@
 # UPA
 
+Klaas Ruppel asked me to take over the UPA project because Kotus does not have ressources and interest any longer. 
+
+Can we create a simple webpage for this? All source files will be versioned in our GitHub, but where can we store files for download (PDF, executables, etc.)?
+
+===
+
 Hallo,
 wie ich sehe, hältst du morgen einen Vortrag hier in Helsinki. Voraussichtlich kann ich leider nicht kommen. Aber bei dieser Gelegenheit komme ich - endlich -auf das UPA-Keyboard-Layout zurück.
 Ich schicke dir anbei die wichtigsten Sachen. Leider ist es so, dass die Installationsanweisungen inzwischen hoffnungslos veraltet sind. Sie müssten wohl sowieso viel deutlicher für verschiedene Versionen der Betriebssysteme verfasst werden. Unter OS X Yosemite funktioniert die Mac-Version. Das weiß ich, weil ich sie ab und zu benutze. Bei der Arbeit unter Windows habe ich nur Erfahrung mit 7. Dort funktioniert die Windows-Version zu einem gewissen Teil.
