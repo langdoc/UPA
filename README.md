@@ -11,9 +11,12 @@ This repository documents the source files. The complete installation packages, 
 
 ## History of the project
 
-UPA was originally developed by Klaas Ruppel at KOTUS in Helsinki. Due to missing ressources the project could not be continued there but is now hosted under langdoc.
+UPA was originally developed by Klaas Ruppel at KOTUS in Helsinki. Due to missing ressources the project could not be continued there but is hosted under langdoc since versions 1.01 (MacOS X) and 1.02 (Windows).
 
 ## Version archive
+
+*UPA 1.02 Windows installer package
+*UPA 1.01 MacOS X installer package
 
 ---
 
