@@ -1,7 +1,21 @@
 
 # UPA
 
-Klaas Ruppel asked me to take over the UPA project because Kotus does not have ressources and interest any longer. 
+current version 1.01 (Mac) and 1.02 (Windows)
+
+---
+
+UPA is a Unicode keyboard driver for the [Uralic Phonetic Alphabet](https://en.wikipedia.org/wiki/Uralic_Phonetic_Alphabet) for Mac and Windows (a driver for Linux is planned).
+
+This repository documents the source files. The complete installation packages, incl. executables, icons, installation instructions, etc. for the most recent version can be downloaded here (LINK UPA 1.01 for Mac) and here (LINK UPA 1.01 for Windows).
+
+## History of the project
+
+UPA was originally developed by Klaas Ruppel at KOTUS in Helsinki. Due to missing ressources the project could not be continued there but is now hosted under langdoc.
+
+## Version archive
+
+---
 
 It is easy to build for this a website in GitHub, basically one has to select from the repository settings what is the source for pages, and these can be the master branch, `docs` folder in the master branch, or specific branch called `gh-pages`. All PDF's and executables can also be versioned here, especially in this case where they will not change as they will not be compiled again. There could be some logical structure for different file types, and they can be linked into on the web page.
 
