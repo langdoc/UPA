@@ -3,6 +3,8 @@
 
 current version 1.01 (Mac) and 1.02 (Windows)
 
+DOCU IS INCOMPLETE
+
 ---
 
 UPA is a Unicode keyboard driver for the [Uralic Phonetic Alphabet](https://en.wikipedia.org/wiki/Uralic_Phonetic_Alphabet) for Mac and Windows (a driver for Linux is planned).
